@@ -1,0 +1,16 @@
+127.0.0.1 - - [28/Aug/2017:14:18:07 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-1 49
+127.0.0.1 - - [28/Aug/2017:14:20:42 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-4 2
+127.0.0.1 - - [28/Aug/2017:14:20:42 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-6 1
+127.0.0.1 - - [28/Aug/2017:14:21:40 +0800] "GET /rest/itemcat/all HTTP/1.1" 404 949 http-bio-8081-exec-7 1
+127.0.0.1 - - [28/Aug/2017:14:21:43 +0800] "GET /rest/itemcat/all HTTP/1.1" 404 949 http-bio-8081-exec-7 0
+127.0.0.1 - - [28/Aug/2017:14:21:46 +0800] "GET / HTTP/1.1" 404 951 http-bio-8081-exec-7 1
+127.0.0.1 - - [28/Aug/2017:14:22:44 +0800] "GET /rest HTTP/1.1" 404 949 http-bio-8081-exec-7 0
+127.0.0.1 - - [28/Aug/2017:14:23:03 +0800] "GET /rest/rest/itemcat/all HTTP/1.1" 200 7476 http-bio-8081-exec-7 591
+127.0.0.1 - - [28/Aug/2017:14:23:59 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 200 7507 http-bio-8081-exec-1 633
+127.0.0.1 - - [28/Aug/2017:14:32:56 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 200 5848 http-bio-8081-exec-1 549
+127.0.0.1 - - [28/Aug/2017:14:35:11 +0800] "GET /rest/rest/itemcat/all HTTP/1.1" 404 949 http-bio-8081-exec-3 4
+127.0.0.1 - - [28/Aug/2017:14:35:18 +0800] "GET /rest/rest/all HTTP/1.1" 404 949 http-bio-8081-exec-4 1
+127.0.0.1 - - [28/Aug/2017:14:35:28 +0800] "GET /rest/itemcat/all HTTP/1.1" 200 5817 http-bio-8081-exec-5 109
+127.0.0.1 - - [28/Aug/2017:14:42:07 +0800] "GET /rest/itemcat/all HTTP/1.1" 200 5817 http-bio-8081-exec-1 566
+127.0.0.1 - - [28/Aug/2017:14:45:51 +0800] "GET /rest/itemcat/all HTTP/1.1" 200 30461 http-bio-8081-exec-1 572
+127.0.0.1 - - [28/Aug/2017:14:45:54 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 200 30492 http-bio-8081-exec-2 117
